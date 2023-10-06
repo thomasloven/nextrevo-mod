@@ -1,6 +1,5 @@
 # Nextrevo mod
 Using E3D Revo nozzles with Prusa Nextruder
-
 # Disclaimer
 
 This is not a guide.
@@ -35,10 +34,10 @@ Here's how I did it.
 This was the part where the whole thing would stand and fall, but when I finally got a nextruder heatsinkin my hand, my hopes rose.
 
 Excusing my limited CAD skills, this is roughly what the heatsink looks like:
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/4a532d0e-44fc-4e78-b266-ca26ec9d3eb7)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/1debe7eb-1da3-49bc-9bff-ef1f5384d23b)
 
 And after probing around a bit, this is what the bore seems to look like on the inside.
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/d23ca4dc-7494-4e5e-b35b-af361f61d12b)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/04759507-0312-47af-9f33-2a5b074ce468)
 
 I realized that the copper part of the Nextruder nozzle had the same outer diameter as the M4 threads of the Revo nozzle. It was also slightly shorter.
 
@@ -46,16 +45,16 @@ And guess what? The stainless steel tube of the Nextruder nozzle had very nearly
 
 So I went to work with an M4 thread tap. The goal was to deepen the hole with a thread like this:
 
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/9184f35e-5adb-430b-bc50-86e3350e9f47)
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/76971554-0be5-45ac-8802-b51b6584f7b1)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/56d7fb0e-483d-4ab2-9f68-c2020fe150e6)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/f8f57080-157a-43ad-8767-3fe518513277)
 
 Very, very carefully, I cut threads until the Revo nozzle *just* bottomed out.
 
-![IMG_6825](https://github.com/thomasloven/nextrevo/assets/1299821/0139a0b2-c6c0-4116-a2e4-2ec2e96694a7)
+![IMG_6825](https://github.com/thomasloven/nextrevo-mod/assets/1299821/9f83554b-a1bd-46ae-8e55-631e2903c4a4)
 
 As best as I can tell, there are a little more than three full threads of contact, which I've heard is the minimal target rule of thumb for general mechanical design.
 
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/c1f8fae8-a96e-4c39-9c8d-62bd3840f65f)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/43d26cb2-8ec2-4bdf-9a42-d0365c40a942)
 
 I then cleaned everything off carefully. Blowing out any shavings etc.
 
@@ -67,8 +66,8 @@ For the next step, I assembled the Nextruder up until the [planetary gears were 
 
 In order to guide the filament from the extruder gear and down to the Revo nozzle, I decided to cut off a piece of the V6 Nozzle Adapter I got earlier with a Dremel diamond cutting disk.
 
-![bild](https://github.com/thomasloven/nextrevo/assets/1299821/53f598d0-3ecf-4ecd-98ce-fd29e380b98b)
-![IMG_6832](https://github.com/thomasloven/nextrevo/assets/1299821/135f170d-51f5-47dc-9504-7ed06c2d7073)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/b29ef62d-02d0-4970-91e3-02ffcfbc3d88)
+![IMG_6832](https://github.com/thomasloven/nextrevo-mod/assets/1299821/5e719c55-b4e3-4342-9630-8e2084902000)
 Then I put the top part in the chuck of my drill chuck and spun it against a metal file to slowly get it to the right length.
 I kept rechecking the combination of revo nozzle and steel tube in the partially assembled nextruder until I got a fit that seemed right.
 
@@ -84,7 +83,7 @@ Turns out it's very similar to the Nextruder one. 24V 40W heater, 100 kOhm NTC t
 
 The spring holding it to the original Revo heatsink comes off by just a firm pull, and the wire harness had to be carefully bent slightly with pliers such that it can fit below the heatsink and have the cables reach.
 
-![IMG_6836](https://github.com/thomasloven/nextrevo/assets/1299821/2a566777-79b2-46ce-a11b-65352a07bf89)
+![IMG_6836](https://github.com/thomasloven/nextrevo-mod/assets/1299821/d40f14b6-4b6b-4bed-93bc-2109e47ac242)
 
 > Note: The cables going to the heater and thermistor of the Revo heater core are held firmly by a metal bracket to provide strain relief. I really really like this. More on that soon.
 
@@ -110,7 +109,7 @@ And now for the really scarry part. Did you know it's really really REALLY hard 
 
 Turns out the thermistor wires are not, and can be soldered freely. The woven insulation can't easily be peeled, but it can be pushed back slightly and held in place with a bobby pin or something while soldering. It then closes up nicely.
 
-![IMG_6838](https://github.com/thomasloven/nextrevo/assets/1299821/d7701a17-8451-45e3-8be5-070ca43bb086)
+![IMG_6838](https://github.com/thomasloven/nextrevo-mod/assets/1299821/a23e0cd3-ea90-4c2c-a903-a0be65526daa)
 
 I put some electrical tape on it for safety too.
 
@@ -140,6 +139,9 @@ I've gotten no Thermal Model warnings - though I suspect that is because the the
 Input shaping seems not to be significantly affected.
 Here it is printing the BonkersBenchy in 12 minutes:
 
-https://github.com/thomasloven/nextrevo/assets/1299821/6d378369-aaa6-4bcf-801c-68ac932486da
+
+https://github.com/thomasloven/nextrevo-mod/assets/1299821/76deae56-bbac-4eef-90f0-2a747dcf19cf
+
+
 
 This mod should be fully backwards compatible. I ran my first few test prints before the heater cartridge broke with the modified heatsink and stock Nextruder heater and nozzle.
