@@ -1,4 +1,4 @@
-# nextrevo
+# Nextrevo mod
 Using E3D Revo nozzles with Prusa Nextruder
 
 # Disclaimer
