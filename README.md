@@ -14,19 +14,19 @@ I take no responsibility for anything that happens to your printer, tools or per
 
 First of all - Science isn't about why. It's about why not.
 
-Second - I had just invested fully in the Revo ecosystem right before the MK4 was announced. Wah wah.
-I didn't need the upgrade, obviosuly, but I wanted it because this is my hobby and I like tinkering with my printer.
+Second - I had just invested fully in the Revo ecosystem right before the MK4 was announced. Wah wah.<br>
+I didn't *need* the upgrade, obviously, but I wanted it because this is my hobby and I like tinkering with my printer.
 Now the Revo investment won't be wasted money.
 
 # Step 1 - Studies
 
 As soon as photos of the nextruder started surfacing, I started thinking.
 
-Didn't the whole idea look kind of familiar?
-I took measurements on the pixelated photos, and an idea started to form.
+Didn't the whole idea look kind of familiar?<br>
+I took measurements on the pixelated photos, and an idea started to form.<br>
 I even bought a [Nextruder V6 Nozzle Adapter](https://www.prusa3d.com/product/nextruder-v6-nozzle-adapter/) long before I had a nextruder just to take more measurements.
 
-When I finally got my MK3.9 upgrade kit, I was confident enough to just go for it...
+When I finally got my MK3.9 upgrade kit, I was confident enough to just go for it...<br>
 Here's how I did it.
 
 # Step 2 - Heatsink preparation
@@ -68,7 +68,7 @@ In order to guide the filament from the extruder gear and down to the Revo nozzl
 
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/b29ef62d-02d0-4970-91e3-02ffcfbc3d88)
 ![IMG_6832](https://github.com/thomasloven/nextrevo-mod/assets/1299821/5e719c55-b4e3-4342-9630-8e2084902000)
-Then I put the top part in the chuck of my drill chuck and spun it against a metal file to slowly get it to the right length.
+Then I put the top part in the chuck of my drill chuck and spun it against a metal file to slowly get it to the right length.<br>
 I kept rechecking the combination of revo nozzle and steel tube in the partially assembled nextruder until I got a fit that seemed right.
 
 I cooled the tube in water frequently, and made sure to chamfer the cut edge slightly and to clean it from metal shavings before each test fit.
@@ -94,7 +94,7 @@ The heater itself was no problem. The cable had exactly the right length and rig
 
 
 
-Ther thermistor was another story. Prusa uses a connector called Molex Clik-mate which seems to be rather new and hard to source.
+Ther thermistor was another story. Prusa uses a connector called Molex Clik-mate which seems to be rather new and hard to source.<br>
 After looking through various sites, it turned out that the cheapest way to get one was actually to have a whole new [thermistor](https://www.prusa3d.com/product/thermistor-ntc-100k-90-mm/) shipped from Prusa.
 
 So I put in my order. It's expected to arrive next Tuesday.
@@ -131,12 +131,12 @@ Everything worked!
 
 This far I have about 13 hours of print time on the Nextrevo, as I've come to call it, with mostly PLA but also a 2 hr print in PETG. I've make half a dozen nozzle swaps.
 
-There is obviously much less contact area between the nozzle and heatsink than with a Nextruder nozzle, but so far I have seen nothing indicating e.g. heat creep.
+There is obviously much less contact area between the nozzle and heatsink than with a Nextruder nozzle, but so far I have seen nothing indicating e.g. heat creep.<br>
 I'll try to make some heat flow simulations and add them here at some point.
 
 I've gotten no Thermal Model warnings - though I suspect that is because the thermal model is not actually implemented in the MK 3.9/4 firmware yet...
 
-Input shaping seems not to be significantly affected.
+Input shaping seems not to be significantly affected.<br>
 Here it is printing the BonkersBenchy in 12 minutes:
 
 
