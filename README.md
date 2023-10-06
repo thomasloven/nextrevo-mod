@@ -123,6 +123,9 @@ Everything was done.
 
 I routed and connected the wires, I screwed in a nozzle. I turned the printer on
 
+> Note: The heater core is just hanging loose under the heatsink now. The spring is not attached at the top. I think this should be ok for a long time, thanks to the previously praised bracing.
+> I left the spring in place to push the heater downwards for maximized contact, though. I think that's a good decision.
+
 I held my breath.
 
 And it just worked!
