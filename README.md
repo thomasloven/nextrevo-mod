@@ -40,7 +40,7 @@ Excusing my limited CAD skills, this is roughly what the heatsink looks like:
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/1debe7eb-1da3-49bc-9bff-ef1f5384d23b)
 
 And after probing around a bit, this is what the bore seems to look like on the inside.
-![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/04759507-0312-47af-9f33-2a5b074ce468)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/688f8b4a-c2c5-4338-a703-84c749ba7901)
 
 I realized that the copper part of the Nextruder nozzle had the same outer diameter as the M4 threads of the Revo nozzle. It was also slightly shorter.
 
@@ -48,7 +48,7 @@ And guess what? The stainless steel tube of the Nextruder nozzle had very nearly
 
 So I went to work with an M4 thread tap. The goal was to deepen the hole with a thread like this:
 
-![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/56d7fb0e-483d-4ab2-9f68-c2020fe150e6)
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/42bdc120-483a-47a3-8d4f-b481fd2257a6)
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/f8f57080-157a-43ad-8767-3fe518513277)
 
 Very, very carefully, I cut threads until the Revo nozzle *just* bottomed out.
