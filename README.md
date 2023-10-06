@@ -1,5 +1,8 @@
 # Nextrevo mod
 Using E3D Revo nozzles with Prusa Nextruder
+
+![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/08d0b40d-17b1-44b5-88e0-93faac617a3c)
+
 # Disclaimer
 
 This is not a guide.
