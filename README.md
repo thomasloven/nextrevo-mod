@@ -17,9 +17,9 @@ I take no responsibility for anything that happens to your printer, tools or per
 
 First of all - Science isn't about why. It's about why not.
 
-Second - I had just invested fully in the Revo ecosystem right before the MK4 was announced. Wah wah.<br>
-I didn't *need* the upgrade, obviously, but I wanted it because this is my hobby and I like tinkering with my printer.
-Now the Revo investment won't be wasted money.
+Second - I had just invested fully in the Revo ecosystem right before the MK4 was announced. Bummer.<br>
+I didn't *need* the upgrade, obviously, but I *wanted* it because this is my hobby and I like tinkering with my printer.<br>
+Now the Revo investment won't be sunk money.
 
 # Step 1 - Studies
 
@@ -34,7 +34,7 @@ Here's how I did it.
 
 # Step 2 - Heatsink preparation
 
-This was the part where the whole thing would stand and fall, but when I finally got a nextruder heatsinkin my hand, my hopes rose.
+This was the part where the whole thing would stand or fall right off the bat, but when I finally got a nextruder heatsink in my hand, my hopes rose.
 
 Excusing my limited CAD skills, this is roughly what the heatsink looks like:
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/1debe7eb-1da3-49bc-9bff-ef1f5384d23b)
@@ -51,7 +51,7 @@ So I went to work with an M4 thread tap. The goal was to deepen the hole with a 
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/42bdc120-483a-47a3-8d4f-b481fd2257a6)
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/f8f57080-157a-43ad-8767-3fe518513277)
 
-Very, very carefully, I cut threads until the Revo nozzle *just* bottomed out.
+Very, very carefully, I cut threads until the Revo nozzle flange would *just* touch the heatsink.
 
 ![IMG_6825](https://github.com/thomasloven/nextrevo-mod/assets/1299821/9f83554b-a1bd-46ae-8e55-631e2903c4a4)
 
@@ -71,8 +71,8 @@ In order to guide the filament from the extruder gear and down to the Revo nozzl
 
 ![bild](https://github.com/thomasloven/nextrevo-mod/assets/1299821/b29ef62d-02d0-4970-91e3-02ffcfbc3d88)
 ![IMG_6832](https://github.com/thomasloven/nextrevo-mod/assets/1299821/5e719c55-b4e3-4342-9630-8e2084902000)
-Then I put the top part in the chuck of my drill chuck and spun it against a metal file to slowly get it to the right length.<br>
-I kept rechecking the combination of revo nozzle and steel tube in the partially assembled nextruder until I got a fit that seemed right.
+Then I put the top part in the chuck of my drill and spun it against a metal file to slowly get it to the right length.<br>
+I kept rechecking the combination of revo nozzle and steel tube in the partially assembled nextruder until I got the fit just right.
 
 I cooled the tube in water frequently, and made sure to chamfer the cut edge slightly and to clean it from metal shavings before each test fit.
 
@@ -90,11 +90,9 @@ The spring holding it to the original Revo heatsink comes off by just a firm pul
 
 > Note: The cables going to the heater and thermistor of the Revo heater core are held firmly by a metal bracket to provide strain relief. I really really like this. More on that soon.
 
-The final, scarriest, part was how to connect the heater block to the Loveboard.
+The final, scariest, part was how to connect the heater block to the Loveboard.
 
 The heater itself was no problem. The cable had exactly the right length and right connector.
-
-
 
 
 Ther thermistor was another story. Prusa uses a connector called Molex Clik-mate which seems to be rather new and hard to source.<br>
@@ -108,7 +106,7 @@ After removing and remoutning the nozzle-heater combo as recommended **TWICE**, 
 
 Prusa support is excellent as always, and a new cartridge is on its way, but this made me decide to just Leroy Jenkins it and cut off the connector from my only Prusa thermistor.
 
-And now for the really scarry part. Did you know it's really really REALLY hard to solder heater block wires? Like impossible, because they are aluminium?
+And now for the really scary part. Did you know it's really really REALLY hard to solder heater block wires? Like impossible, because they are aluminium?
 
 Turns out the thermistor wires are not, and can be soldered freely. The woven insulation can't easily be peeled, but it can be pushed back slightly and held in place with a bobby pin or something while soldering. It then closes up nicely.
 
