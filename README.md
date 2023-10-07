@@ -135,7 +135,8 @@ And it just worked!
 
 Everything worked!
 
-This far I have about 13 hours of print time on the Nextrevo, as I've come to call it, with mostly PLA but also a 2 hr print in PETG. I've make half a dozen nozzle swaps.
+This far I have about 13 hours of print time on the Nextrevo, as I've come to call it, with mostly PLA but also a 2 hr print in PETG. I've make half a dozen nozzle swaps.<br>
+That's not much at all for verifying a mod like this, so let's say the performance review is still in the works.
 
 There is obviously much less contact area between the nozzle and heatsink than with a Nextruder nozzle, but so far I have seen nothing indicating e.g. heat creep.<br>
 I'll try to make some heat flow simulations and add them here at some point.
