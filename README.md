@@ -141,6 +141,9 @@ I'll try to make some heat flow simulations and add them here at some point.
 
 I've gotten no Thermal Model warnings - though I suspect that is because the thermal model is not actually implemented in the MK 3.9/4 firmware yet...
 
+I have run into one issue. If the top thumbscrew is screwed in too tightly, the top steel tube can shift a bit in such a way that filament will hit the edge while loading, and the load will fail.<br>
+This could perhaps be avoided with a slighly modified Nextruder Main Plate.
+
 Input shaping seems not to be significantly affected.<br>
 Here it is printing the BonkersBenchy in 12 minutes:
 
